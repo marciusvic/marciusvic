@@ -32,6 +32,6 @@ I am a university student in the seventh semester of the Bachelor of Information
 
 ## Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciusvic&theme=radical&layout=compact" align="left" style="width:50%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciusvic&theme=radical&show_icons=true" align="left" style="width:50%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciusvic&theme=radical&layout=compact" style="width: 49%; max-width: 49%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciusvic&theme=radical&show_icons=true" style="width: 49%; max-width: 49%;" />
 </p>
