@@ -31,7 +31,7 @@ I am a university student in the seventh semester of the Bachelor of Information
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciusvic&theme=radical&layout=compact" style="width: 49%; max-width: 49%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciusvic&theme=radical&show_icons=true" style="width: 49%; max-width: 49%;" />
-</p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciusvic&theme=radical&layout=compact" style="display: inline-block; max-width: 50%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciusvic&theme=radical&show_icons=true" style="display: inline-block; max-width: 50%;" />
+</div>
