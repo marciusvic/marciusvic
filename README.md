@@ -1,29 +1,25 @@
 ## Hello, I'm Márcio Victor! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/marciusvic/pt)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcio9769@gmail.com)](mailto:marcio9769@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/marciusvic)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/marciusvic/pt)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcio9769@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marciusvic)
 
 ### About Me
 I am a university student in the seventh semester of the Bachelor of Information Technology at UFRN. Since 2021, I have been dedicating myself to studying and improving web development, and today I am a full stack web developer.
 
-My journey in the technology field has been marked by an unwavering passion for creating innovative and functional solutions. I have over one and a half years of experience working with a range of technologies, including Python, Django, and other essential tools for building dynamic and efficient web applications.
+### Technologies
+![HTML5](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Languages and Tools
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-
-
-### GitHub Statistics
-![Márcio Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciusvic&show_icons=true&theme=tokyonight)
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciusvic&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciusvic&theme=radical&show_icons=true)
